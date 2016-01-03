@@ -6,7 +6,7 @@ You can easily extend the template with [Babel](https://babeljs.io), [Lodash](ht
 
 ## How to use
 1. Clone repository: `git clone https://github.com/idlework/grunt-require-less-boilerplate.git`
-2. Delete the existing git repository by running rm -rf .git.
+2. Delete the existing git repository by running `rm -rf .git`.
 3. Initialize a new git repository with `git init`, `git add .` and `git commit -m "Initial commit"`.
 4. Install Node modules: `npm install`
 5. Run development server `grunt`
