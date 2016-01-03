@@ -16,6 +16,6 @@ You can easily extend the template with [Babel](https://babeljs.io), [Lodash](ht
 * Extend Grunt file with head presets
 * Extend Grunt file with ua code
 
-Want a more modern development environment? Take a look at the repositories:
+Want a more modern development environment? Take a look at these repositories:
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate)
 * [frontend-boilerplate](https://github.com/tj/frontend-boilerplate)
