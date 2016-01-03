@@ -3,7 +3,11 @@
 }
 
 html {
-  font-size: @font-size-m;
+  font-size: @font-size-s;
+
+  @media @viewport-m {
+    font-size: @font-size-m;
+  }
 }
 
 body {
