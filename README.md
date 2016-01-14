@@ -13,8 +13,10 @@ You can easily extend the template with [Babel](https://babeljs.io), [Lodash](ht
 6. Create a dist export `grunt dist`
 
 ## Todo
+* Write proper README.md
 * Replace LESS with [Postcss](https://github.com/postcss/postcss)
-* Add Babel
+* Add [Babel](https://babeljs.io)
+* Add favico generator
 * Extend Grunt file with head presets
 * Extend Grunt file with ua code
 
